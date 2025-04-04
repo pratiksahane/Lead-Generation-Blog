@@ -21,8 +21,8 @@ body{
   align-items: center;
 }
 .container2{
-  margin-left:100px ;
-  margin-right: 200px;
+  margin-left:130px ;
+  margin-right: 150px;
 }
 h1 {
   color: #00d4ff;
@@ -88,7 +88,7 @@ ul{
   border-radius: 8px; 
   font-family: 'Playfair Display', serif;  
   text-align:justify;  
-  max-width: 800px;  
+  max-width: 835px;  
   margin: 20px auto;  
   box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
 }
