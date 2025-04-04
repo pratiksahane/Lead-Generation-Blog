@@ -45,7 +45,7 @@ const MyBlog=()=>{
       </tr>
       <tr>
         <td className='tdd'>
-          Leads are potential customers who have shown interest in your website by signing up or by purschasing your product. 
+          Leads are potential customers who have shown interest in your website by signing up or by purchasing your product. 
           And Lead Generation is the process of converting new customers into reliable future customers~
         </td>
       </tr>
@@ -55,38 +55,38 @@ const MyBlog=()=>{
         </th>
       </tr>
       <td  className='tdd'>
-      As we all are aware how AI is taking over human dominanted fields, and doing most task on it's  own, may it be a small task 
-      like writing Essay on "Tree -Our Future" or following recent image processing trend like <a rel="noopener noreferrer" target="_blank" href='https://thebetterindia.com/417095/ghibli-ai-art-is-viral-but-can-you-recognise-these-stunning-indian-art-stylesai-studio-ghibli-anime-chatgpt-artists-india-gemini/'>Ghilbi-Art Style</a>which has gained Tremendous Popularity in mean-time.
+      As we all are aware how AI is taking over human dominated fields, and doing most task on its  own, whether it be a small task 
+      like writing Essay on "Tree -Our Future" or following recent image processing trend like <a rel="noopener noreferrer" target="_blank" href='https://thebetterindia.com/417095/ghibli-ai-art-is-viral-but-can-you-recognise-these-stunning-indian-art-stylesai-studio-ghibli-anime-chatgpt-artists-india-gemini/'>Ghilbi-Art Style</a>, which has gained Tremendous Popularity in mean-time.
         <br/><br/>
-      In Same Way, Leads are generated through <a rel="noopener noreferrer" target="_blank" href='https://en.wikipedia.org/wiki/Artificial_intelligence'>Artificial Intelligence Technology</a> by many Businesses. AI Technology is so advance that it collects users data, analyzes the customers behaviour & Engagement
-      to rank leads based on their likelihood to convert. Example of such AI(s) are <a rel="noopener noreferrer" target="_blank" href='https://www.hubspot.com/'>HubSpot</a> & <a rel="noopener noreferrer" target="_blank" href='https://trailhead.salesforce.com/en/credentials/aiassociate'>Salesforce AI automatically prioritize high-value</a> leads.
+      In the same Way, leads are generated through <a rel="noopener noreferrer" target="_blank" href='https://en.wikipedia.org/wiki/Artificial_intelligence'>Artificial Intelligence Technology</a> by many Businesses. AI Technology is so advanced that it collects users data, analyzes the customer behaviour & engagement
+      to rank leads based on their likelihood to convert. Examples of such AI Tools includes <a rel="noopener noreferrer" target="_blank" href='https://www.hubspot.com/'>HubSpot</a> & <a rel="noopener noreferrer" target="_blank" href='https://trailhead.salesforce.com/en/credentials/aiassociate'>Salesforce AI automatically prioritize high-value</a> leads.
         <br/><br/>
-      Not only this, there are many ways where AI helps in Lead Generation like suggesting personalized content to visitors hence increasing engagement & Leads conversion. <a rel="noopener noreferrer" href='https://www.netflix.com/in/' target='_blank'>Netflix</a> uses such type of AI for reaching out potentional customers with the help of AI.
+      Not only this, there are many ways where AI helps in Lead Generation like suggesting personalized content to visitors hence increasing engagement & Leads conversion. <a rel="noopener noreferrer" href='https://www.netflix.com/in/' target='_blank'>Netflix</a> uses AI for reaching out potentional customers.
         <br/><br/>
-      <a rel="noopener noreferrer" href='https://www.zoho.com/salesiq/login.html' target='_blank'>Zoho SalesIQ</a> is the another AI Feature the uses ChatBots & Analzing what Highly engages customers in our website also in identifying potential leads. Another Famous Social Media Platform <a href='https://www.hootsuite.com/'>HootSuite</a> uses AI feature in it's free version to share statistics & analysis of the visitors.  
-      Although chatgpt that we use on regular basis in not used for direct purpose for leads generation, but it widely used in various platforms in integrated way.
+      <a rel="noopener noreferrer" href='https://www.zoho.com/salesiq/login.html' target='_blank'>Zoho SalesIQ</a> is the another AI Feature the uses chatBots & analyzes what Highly engages customers in our website also in identifying potential leads. Another well known Social Media Platform <a href='https://www.hootsuite.com/'>HootSuite</a> uses AI feature in its free version to share statistics & analysis of the visitors.  
+      Although Chatgpt, which we use regularly is not directly used for lead generation, but it widely used in various platforms in integrated way.
 
       <br/><br/>
 
-      So What are you waiting for? Use AI Technology to enrich your Company Website with Proper SEO Keywords for 
-      increasing traffic which eventually results in Lead Generation! Also for getting your Website ranked in google's 
-      search engine it should have more traffic, keywords and external links refernced to your website, for more follow <a rel="noopener noreferrer" href='https://www.searchenginejournal.com/on-page-seo/essential-factors/' target='_blank'>this guide</a>. 
-      Moreoverly, letting go of traditional practices & showcasing expertise in AI is the need of the hour.
+      So, what are you waiting for? Use AI Technology to optimize your company website with Proper SEO keywords for 
+      increasing traffic which ultimately leads to better Lead Generation! Also for getting your Website ranked in google's 
+      search engine it should have more traffic, keywords and external links refernced to your website, For more follow <a rel="noopener noreferrer" href='https://www.searchenginejournal.com/on-page-seo/essential-factors/' target='_blank'>this guide</a>. 
+      Moreover, Letting go of traditional practices & embracing AI is essential in today's world.
       For knowing more about it, visit website click on <a rel="noopener noreferrer" href="https://www.leadpages.com/blog/free-ai-tools-for-lead-generation" target='_blank'> 
       Read More</a>
 
       </td>
       <tr>
-        <th className='thh'>Advantages of AI in Lead Generation.</th>
+        <th className='thh'>Advantages of AI in Lead Generation:</th>
       </tr>
       <tr>
         <td  className='tdd'>
           <ul>
-          <li><strong>Improved Lead-Targeting</strong>:As AI analyzes vast amount of data, it helps companies find potential leads.</li>
-          <li><strong>Enhanced Personalization</strong>:AI powered ChatBots & recommendation engines provides personalized experiences.</li>
-          <li><strong>Automated filters</strong>:AI filters lead into warm,hot & cold segements using predictive analysis.</li>
-          <li><strong>Cost efficiency & Time Saving</strong>:As AI handles repetitive tasks like emails and their follow-ups, sales team can invest their time in handling deals instead of this.</li>
-          <li><strong>Predictive Lead-scoring</strong>:AI assigns scores to lead based on their past behaviours, hence sales team can prioritize high-potential prospects.</li>
+          <li><strong>Improved Lead Targeting</strong>:As AI analyzes vast amounts of data, it helps companies find potential leads.</li>
+          <li><strong>Enhanced Personalization</strong>:AI powered chatBots & recommendation engines provide personalized experiences.</li>
+          <li><strong>Automated filters</strong>:AI filters lead into warm, hot & cold segements using predictive analysis.</li>
+          <li><strong>Cost Efficiency & Time-Saving</strong>:As AI handles repetitive tasks like emails and their follow-ups, the sales team can invest their time in closing deals instead.</li>
+          <li><strong>Predictive Lead scoring</strong>:AI assigns scores to lead based on their past behaviours, hence the sales team can prioritize high-potential prospects.</li>
           </ul>
         </td>
       </tr>
